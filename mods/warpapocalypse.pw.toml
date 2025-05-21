@@ -1,0 +1,16 @@
+filename = 'WarpTheory1.12.2-0.0.3.9.jar'
+name = 'Warp Apocalypse'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '34efb3669a0996c1b7f4601e714706493f6ba58e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6184214
+project-id = 817000

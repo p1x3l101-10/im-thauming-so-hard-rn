@@ -1,0 +1,16 @@
+filename = 'Cognitio-b0.7.3-1.12.2.jar'
+name = 'Cognitio'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '0ef6673173f55c9a97c93b037768f92b46b9c53361b98dae66aa234f63a17766b1e818aafe36f48aee56e88f0d692a2e7a45b9d3561683fc2bdc19a02f1cbcab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gxb5ue0n/versions/YydgaJQ5/Cognitio-b0.7.3-1.12.2.jar'
+
+[update.modrinth]
+mod-id = 'gxb5ue0n'
+version = 'YydgaJQ5'

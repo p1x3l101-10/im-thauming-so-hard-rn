@@ -1,0 +1,16 @@
+filename = 'Warpbook-1.12.2-3.3.4.jar'
+name = 'Warp Book'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '23acb09e99500237a977a61020d1d3a0c3add5b7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3013557
+project-id = 71869

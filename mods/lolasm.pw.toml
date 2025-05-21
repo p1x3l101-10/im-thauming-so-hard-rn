@@ -1,0 +1,16 @@
+filename = 'censoredasm5.28.jar'
+name = 'CensoredASM'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8cd0805a74698313594506e8b2830de086c055c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6333774
+project-id = 460609

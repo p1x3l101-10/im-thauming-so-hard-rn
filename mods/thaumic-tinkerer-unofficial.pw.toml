@@ -1,0 +1,16 @@
+filename = 'thaumictinkerer-1.12.2-5.9.4-Unofficial.jar'
+name = 'Thaumic Tinkerer Unofficial'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2bbf4c8c058641f1bd732fc84aec8e84980e3218c81520f7eb6a74f0d24a504929312a5b7cba30ca67cbe3ab37525f967ba542c824a14d7a580a529d731f23c2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LY0fyqpq/versions/cdnqQ3rJ/thaumictinkerer-1.12.2-5.9.4-Unofficial.jar'
+
+[update.modrinth]
+mod-id = 'LY0fyqpq'
+version = 'cdnqQ3rJ'

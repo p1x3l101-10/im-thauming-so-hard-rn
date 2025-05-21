@@ -1,0 +1,16 @@
+filename = 'OpenFM-1.12.2-0.1.0.19.jar'
+name = 'OpenFM'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2993622b74d1253fdfb98d710dba273afd886625'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2598511
+project-id = 236839

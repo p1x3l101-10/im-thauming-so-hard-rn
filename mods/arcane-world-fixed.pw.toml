@@ -1,0 +1,16 @@
+filename = 'arcane-world-fixed-1.0.jar.jar'
+name = 'Arcane World Fixed'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f5a9f2aaad0fcd7e6593684dc0edbca23e725c07'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4551027
+project-id = 865605

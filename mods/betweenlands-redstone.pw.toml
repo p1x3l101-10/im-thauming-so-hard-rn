@@ -1,0 +1,16 @@
+filename = 'BetweenlandsRedstone-1.4.0.jar'
+name = 'Betweenlands Redstone'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c8927362f54bef0c0335e85ad0c12a692f70eeea'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5628185
+project-id = 567792

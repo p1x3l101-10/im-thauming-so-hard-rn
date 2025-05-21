@@ -1,0 +1,16 @@
+filename = 'DynamicLights-1.12.2.jar'
+name = 'Dynamic Lights'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fd011557b484f764367b9bc9d93e22a5ab2051d1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2563244
+project-id = 227874

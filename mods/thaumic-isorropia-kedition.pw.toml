@@ -1,0 +1,16 @@
+filename = 'isorropia-1.12.2-kedition-1.1.2.jar'
+name = 'Thaumic Isorropia - Kedition'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ff3f92414a2d42c82ada048c9c8edd769b57a617'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6504141
+project-id = 1159671

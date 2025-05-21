@@ -1,0 +1,16 @@
+filename = 'tombmanypluginsthebetweenlands-1.0.0.jar'
+name = 'TombManyPlugins - The Betweenlands'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2c78538224943c3bff81e1f3cbb5472fac97fcf4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2563119
+project-id = 294213

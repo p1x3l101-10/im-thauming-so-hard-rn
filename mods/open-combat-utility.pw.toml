@@ -1,0 +1,16 @@
+filename = 'OpenCU-1.1.1.jar'
+name = 'Open Combat  Utility (OpenCU)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '59f3c1f8ada19c502cc737bfe37da207981b4cc9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4365539
+project-id = 484403

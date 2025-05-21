@@ -1,0 +1,16 @@
+filename = 'ReForbidden Magic-1.12.2-v1.0.1.jar'
+name = 'ReForbidden Magic'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7d8ca3a2994e9817e1208dc4c7be7fc47df6fba3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6189131
+project-id = 709804

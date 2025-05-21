@@ -1,0 +1,16 @@
+filename = 'ancientwarfare-1.12.2-2.7.0.1038.jar'
+name = 'Ancient Warfare 2'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '89cc242cdfb58730877121ece35aa2aec0974075'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3293318
+project-id = 224602

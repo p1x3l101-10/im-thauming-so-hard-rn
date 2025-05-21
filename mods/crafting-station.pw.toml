@@ -1,0 +1,16 @@
+filename = 'craftingstation-0.1.8a.jar'
+name = 'Crafting Station'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '57a3400bea12937ac50a6d790cccd554050c8892'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3101596
+project-id = 318551

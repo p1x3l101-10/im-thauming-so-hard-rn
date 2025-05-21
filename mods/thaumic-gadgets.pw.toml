@@ -1,0 +1,16 @@
+filename = 'Thaumic_Gadgets_1.12.2_0.1.6_tb.26.jar'
+name = 'Thaumic Gadgets'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ca900519310509288861256bc45d9e50aba7e431'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3258616
+project-id = 301795

@@ -1,0 +1,16 @@
+filename = 'oc-wasm-1.12-1.0.0.jar'
+name = 'OC-Wasm'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '884f38e29b724c93d954db33c30c83e47e5903b5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5240985
+project-id = 508311

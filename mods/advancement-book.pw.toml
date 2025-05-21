@@ -1,0 +1,16 @@
+filename = 'Advancement_Book-1.12-1.0.3.jar'
+name = 'Advancement Book'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4946ece41ab42b8d7b48d251f183286a9087e9dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2700106
+project-id = 317211

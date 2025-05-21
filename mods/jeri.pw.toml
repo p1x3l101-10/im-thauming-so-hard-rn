@@ -1,0 +1,16 @@
+filename = 'JERI-1.12.2-1.1.2.jar'
+name = 'Just Enough Recipe Integrations'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8de398e2f3b314a777f4325ab4fbcba8689970b211b56da19269fa51a97905a8511855b251dc4eae463f420175ac65f27b906d92b8fe563bda5d20fcc65b403a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/q4X4h5Qc/versions/tHlEPehc/JERI-1.12.2-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'q4X4h5Qc'
+version = 'tHlEPehc'

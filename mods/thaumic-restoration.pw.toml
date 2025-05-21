@@ -1,0 +1,16 @@
+filename = 'ThaumicRestoration-1.5.0.jar'
+name = 'Thaumic Restoration'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'b159a3fa3e1b0776b94364996670df7734031fb2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2999857
+project-id = 300198

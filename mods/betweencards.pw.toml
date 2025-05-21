@@ -1,0 +1,16 @@
+filename = 'Betweencards.jar'
+name = 'Betweencards'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f59c974c431cb9485db3ffdf8c3552a93f959e73'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4352904
+project-id = 813253

@@ -1,0 +1,16 @@
+filename = 'ae2-uel-extended-v0.55.30-0.4.0.2-rv6-stable-7.jar'
+name = 'AE2 UEL: Extended'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '643192f71d73f1fea6a52e5fcadbff5ef8731507'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5006535
+project-id = 913322

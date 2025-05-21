@@ -1,0 +1,16 @@
+filename = 'BetweenlandsExtendedConfig-1.0.0.jar'
+name = 'Betweenlands Extended Config'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4254b9678314b024447d536d4c0b38d5201f8db3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4642357
+project-id = 888351

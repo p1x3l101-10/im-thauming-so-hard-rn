@@ -1,0 +1,16 @@
+filename = "p455w0rd'sAE2WirelessTerminalsPatch-1.1.0.jar"
+name = "p455w0rd's AE2 Wireless Terminals Patch"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5329c1730450abe04672efe5f327cbc1044dcf97'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4686440
+project-id = 888670

@@ -1,0 +1,16 @@
+filename = 'ThaumcraftFix-1.12.2-1.1.4.jar'
+name = 'Thaumcraft Fix'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7ac03a678c0b171a2a0430aad95082db182a6d16'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6405744
+project-id = 1069346

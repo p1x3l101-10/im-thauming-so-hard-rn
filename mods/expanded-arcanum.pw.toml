@@ -1,0 +1,16 @@
+filename = 'ExpandedArcanum-1.0.1.jar'
+name = 'Expanded Arcanum'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '70ed5fd423ed43db8097f20218b99ee93e528f3f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2609701
+project-id = 301722

@@ -1,0 +1,16 @@
+filename = 'universalbestiary-1.12.2-1.4BETA.jar'
+name = 'Universal Bestiary'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '7b8a5d1d55a77336e46b02d7f39224a5997ba647'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3826650
+project-id = 311283

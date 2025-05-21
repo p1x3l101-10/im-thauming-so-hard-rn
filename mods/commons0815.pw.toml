@@ -1,0 +1,16 @@
+filename = 'Commons0815-1.12.2-1.4.0.jar'
+name = 'Commons0815'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '076ed53a86f503add06c252856a1a8ad7b0d2667'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3248796
+project-id = 346326

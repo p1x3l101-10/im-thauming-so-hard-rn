@@ -1,0 +1,16 @@
+filename = 'ctrlq-forge-mc1.12-1.8.jar'
+name = 'Ctrl Q'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '76c4aab9e8c67fa2817063abb67fb88630f5c325c8394c0467be8565c05b9ed7dc9accf6164e8002063c6f8d71dd61af32f4d4c9cffc2eafd71d065adfed78a6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Dxv5rpnB/versions/1.8b/ctrlq-forge-mc1.12-1.8.jar'
+
+[update.modrinth]
+mod-id = 'Dxv5rpnB'
+version = 'dA8kT39G'

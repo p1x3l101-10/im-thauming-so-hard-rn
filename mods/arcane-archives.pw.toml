@@ -1,0 +1,16 @@
+filename = 'arcanearchives-0.2.0.25-mixins8.jar'
+name = 'Arcane Archives'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7579a3a3fb22e5b572a9b49e4e36894cf6bbe6a3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3057332
+project-id = 311357

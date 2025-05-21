@@ -1,0 +1,16 @@
+filename = 'BetweenlandsStorage.jar'
+name = 'Betweenlands Storage'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4f003e0533be4a7efa72b8219ebe4586070ad1c3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2850284
+project-id = 356043

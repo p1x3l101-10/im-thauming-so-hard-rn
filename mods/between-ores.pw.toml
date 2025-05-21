@@ -1,0 +1,16 @@
+filename = 'BetweenOres-1.4.7.jar'
+name = 'Between Ores'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6508b209f0aa45504dd0ea48c9a087e93968813d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3438544
+project-id = 308866

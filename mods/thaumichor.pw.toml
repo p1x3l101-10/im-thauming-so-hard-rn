@@ -1,0 +1,16 @@
+filename = 'Thaumichor_1.12.2.jar'
+name = 'ThaumIchor'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a8b9751aca541226052e1a81abccf5037d45c04af211dc82316db8f8191a10b64639f73f80682fb5d341addaccc09c2b44b407fdee5ebd6487f98ba720ddf2aa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c3LKsu75/versions/7V3TF7hv/Thaumichor_1.12.2.jar'
+
+[update.modrinth]
+mod-id = 'c3LKsu75'
+version = '7V3TF7hv'

@@ -1,0 +1,16 @@
+filename = 'thaumicbrewing-1.0.2.jar'
+name = 'Thaumic Brewing'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '21d5c5b22b4a01f51540a5f425b049df04643abe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2666739
+project-id = 312660

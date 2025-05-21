@@ -1,0 +1,16 @@
+filename = 'RingOfProspecting-Forge-1.12.2-2.0.1.jar'
+name = 'Rings of Prospecting'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a951b50b9127dadfd798b2d1d363ad76e5929d3bdac0a7f00e40890922c51bc151d7dbef6d7b2ccb7bf29d0501b3b8ff5775392328ec3d5d86557adbd85c0dd5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HESt4lUX/versions/A3PCvZOu/RingOfProspecting-Forge-1.12.2-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'HESt4lUX'
+version = 'A3PCvZOu'

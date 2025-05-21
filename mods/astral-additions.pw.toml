@@ -1,0 +1,16 @@
+filename = 'astraladditions-1.12.2-1.0.2.jar'
+name = 'Astral Additions'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '80ae070c495ad9b3c9500a442bf29f9935a0ca6a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3862324
+project-id = 427469

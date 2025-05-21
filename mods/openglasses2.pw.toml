@@ -1,0 +1,16 @@
+filename = 'OpenGlasses-MC1.12.2-2.2-53.jar'
+name = 'OpenGlasses2'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b8fb78b8b7e7486a40966cf283833fa04abc84b6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3143467
+project-id = 300957

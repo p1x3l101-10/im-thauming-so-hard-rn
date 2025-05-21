@@ -1,0 +1,16 @@
+filename = 'tombmanygraves2api-1.12.2-1.0.0.jar'
+name = 'TombManyGraves 2 API'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2e8bb1877f24b0e63d97f3f10679ec8b7b85037e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2563073
+project-id = 294202
