@@ -27,7 +27,7 @@ Create a file in the `minecraft` directory called `unsup.ini` with the following
 ```
 version=1
 source_format=packwiz
-source=https://cdn.piplup.pp.ua/packs/im-thauming-so-hard-rn/pack.toml
+source=https://raw.githubusercontent.com/p1x3l101-10/im-thauming-so-hard-rn/refs/heads/main/pack.toml
 server_authority=true
 public_key=signify RWRBgYcfobPE7I7STPLaQnp69F06aqQaBSWk0AuUFKlUoCyE6VUZKxJv
 ```
