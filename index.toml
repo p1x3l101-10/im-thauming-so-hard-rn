@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/infusion-automate.pw.toml"
-hash = "37c430101441f161e49143c4ba12622fdace771339ee9a1d781f898b3bf34870"
+hash = "5c00af093d1e380c43eda30c367399ab4f0a3a449ab0c720c81913623fe48931"
 metafile = true
 
 [[files]]
@@ -1335,7 +1335,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraft-return-of-the-ancients.pw.toml"
-hash = "d270e973ba3b2e53ce862f49db36e3a948f1c1c5fce7e4951cad16f343b9e5d1"
+hash = "da339e7fd9f090b3b4ffb5b49b4da23270b95a59e41e59f7cc3100bd52fdd234"
 metafile = true
 
 [[files]]
