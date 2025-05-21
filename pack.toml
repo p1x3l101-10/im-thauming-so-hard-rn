@@ -1,0 +1,15 @@
+name = "I'm thauming so hard rn"
+author = "P1x3l101"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6cd8cbcf1a5f12357fe409a3a1306b5e7b0adb022b362edfe00e4f2b55beccd9"
+
+[versions]
+forge = "14.23.5.2860"
+lwjgl = "2.9.4-nightly-20150209"
+minecraft = "1.12.2"
+unsup = "1.1.2"

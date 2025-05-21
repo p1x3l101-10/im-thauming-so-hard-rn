@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "unsup.ini"
+hash = "bf63451b82417105608bd40d5a52b40e0defd36a3bbfce6d766212eed81fcc0f"
