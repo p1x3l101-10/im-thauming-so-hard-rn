@@ -32,6 +32,8 @@ server_authority=true
 public_key=signify RWRBgYcfobPE7I7STPLaQnp69F06aqQaBSWk0AuUFKlUoCyE6VUZKxJv
 ```
 
+And add the java argument `-Dunsup.ignoreEnvs=true` (unsup will only download client or both mods otherwise)
+
 <details>
 <summary>What the file does</summary>
 <br>
