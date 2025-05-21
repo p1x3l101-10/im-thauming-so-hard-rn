@@ -41,7 +41,7 @@ public_key=signify RWRBgYcfobPE7I7STPLaQnp69F06aqQaBSWk0AuUFKlUoCyE6VUZKxJv
 <br>
 <code>source</code> tells unsup where the packwiz pack is located at
 <br>
-<code>server_authority</code> tells unsup to download the remote `unsup.ini</code> file and then use that for the rest of the run
+<code>server_authority</code> tells unsup to download the remote <code>unsup.ini</code> file and then use that for the rest of the run
 <br>
-<code>public_key</code> is there for security purposes, if the signature is bad, unsup will refuse to install the pack. This prevents installing a broken version on accident, and it will also ensure that you can trust that this pack comes from me (if you get malware without using <code>public_key`, it's not my fault because that version of the pack probably isn't from me)
+<code>public_key</code> is there for security purposes, if the signature is bad, unsup will refuse to install the pack. This prevents installing a broken version on accident, and it will also ensure that you can trust that this pack comes from me (if you get malware without using <code>public_key</code>, it's not my fault because that version of the pack probably isn't from me)
 </details>
