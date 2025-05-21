@@ -19,7 +19,7 @@ Create an empty component with the UID of <code>com.unascribed.unsup</code> with
   ]
 }
 </code></pre>
-You can save this component file for later by copying it from <code>&gt;INST_DIR&lt;/patches</code> to the central mods folder, then you can just click import component and select the component json.
+You can save this component file for later by copying it from <code>&lt;INST_DIR&gt;/patches</code> to the central mods folder, then you can just click import component and select the component json.
 </details>
 
 Create a file in the `minecraft` directory called `unsup.ini` with the following contents:
