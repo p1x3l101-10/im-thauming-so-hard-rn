@@ -10,10 +10,10 @@ Create an empty component with the UID of <code>com.unascribed.unsup</code> with
   "formatVersion": 1,
   "name": "unsup",
   "uid": "com.unascribed.unsup",
-  "version": "1.1-pre9",
+  "version": "1.1.2",
   "+agents": [
     {
-      "name": "com.unascribed:unsup:1.1-pre9",
+      "name": "com.unascribed:unsup:1.1.2",
       "url": "https://repo.sleeping.town"
     }
   ]
