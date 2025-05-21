@@ -1,0 +1,13 @@
+name = "Thaumcraft 6 Inlay Fix"
+filename = "Inlay Fix 1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15698685a5c5fb46761d6dd7d0b95e005116900f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3103265
+project-id = 417872

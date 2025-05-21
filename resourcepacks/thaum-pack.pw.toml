@@ -1,0 +1,13 @@
+name = "Thaum-Pack"
+filename = "Thaum_pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb15062d49590be462806a2529629f3b6ff6ce4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5031355
+project-id = 961959

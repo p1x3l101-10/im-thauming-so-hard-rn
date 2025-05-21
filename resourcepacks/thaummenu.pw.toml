@@ -1,0 +1,13 @@
+name = "ThaumMenu"
+filename = "ThaumMenu1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7e51103fede6df3aae8a44a8f0059098a11c144"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5385780
+project-id = 976239

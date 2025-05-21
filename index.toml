@@ -1509,5 +1509,30 @@ hash = "1f3312c77c79fa580ff8488f55bf596e37d14f38f1e6ba5273229f2411cd0cff"
 metafile = true
 
 [[files]]
+file = "resourcepacks/shield-by-side.pw.toml"
+hash = "f06d3aceb5092e61c07591d9f642b72d17d1e5daff0266a9da0220ca030d75e7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thaum-pack.pw.toml"
+hash = "ba3724b4b76eb364acd96985b11b89f301560ac65a475605fc302ebf1b760001"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thaumcraft-6-inlay-fix.pw.toml"
+hash = "966def24d186d6e92127587a2db4403c23050ca2b88289606c808cefc254a44b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thaummenu.pw.toml"
+hash = "412f8ed45af00951d6f0a236098478a209c9f20a6f0c539f2d293b1c28b37dea"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "69e82afeb9a001deeec9d170197269429ca9b028eb57c7c1e254061c493e5e20"
+metafile = true
+
+[[files]]
 file = "unsup.ini"
 hash = "92f5c5447a97cdc741c75eba2fdfa13338796f87b0c766debc680bb823d06768"
