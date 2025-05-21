@@ -189,6 +189,10 @@ file = "config/ancientwarfare/AncientWarfareVehicle.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/ancientwarfare\\AncientWarfareVehicle.cfg"
+hash = "a775d2078bbd6da2bb85938449c07bf037740889e1e7104226f75902b61b4c23"
+
+[[files]]
 file = "config/antiqueatlas/antiqueatlas.cfg"
 hash = "372a1cbaeb69513cdb4b99f956c37b113d7fd9c8abee844b54fd2ad9c69cb9fd"
 
