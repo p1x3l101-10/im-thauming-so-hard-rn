@@ -4,7 +4,7 @@ Import the unsup Prismlauncher component into an empty instance
 <details>
 <summary>How to install a custom component</summary>
 <br>
-Create an empty component with the UID of `com.unascribed.unsup</code> with the following contents:
+Create an empty component with the UID of <code>com.unascribed.unsup</code> with the following contents:
 <pre><code>
 {
   "formatVersion": 1,
