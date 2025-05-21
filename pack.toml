@@ -1,12 +1,12 @@
 name = "I'm thauming so hard rn"
 author = "P1x3l101"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "38e9654cacb65febfd16e303cbf9e05fcaafafc50b1d8b49938468b6c8672dcc"
+hash = "3b9a1e33f0c7956509337377794b385adbd5217acaab15c05f7ea5650f62e5a6"
 
 [versions]
 forge = "14.23.5.2860"
