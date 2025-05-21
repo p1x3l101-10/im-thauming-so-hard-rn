@@ -860,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-smelter.pw.toml"
-hash = "4630d9759f8525eac0ab2177805e7045578150bb1cd6bec3355a44f18abf8d6d"
+hash = "07023586bfc161a338dd36152057e650aeaa290550a25b1c340cf5c8960e2ef9"
 metafile = true
 
 [[files]]
