@@ -1,6 +1,6 @@
 # How to install
 
-Import the unsup Prismlauncher component into an empty instance
+Import the unsup Prismlauncher component into an empty instance on version `1.12.2` with forge installed (unsup can change the forge version, so dont worry about getting the correct version)
 <details>
 <summary>How to install a custom component</summary>
 <br>
