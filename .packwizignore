@@ -1,4 +1,4 @@
-.git/**
+.git
 .gitattributes
 .gitignore
 LICENSE
@@ -6,8 +6,8 @@ LICENSE.template
 README.md
 TODO.md
 .DS_Store
-.github/**
-autosign/**
+.github
+autosign
 unsup.toml
 unsup.sig
 subpacks
