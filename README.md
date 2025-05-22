@@ -10,7 +10,7 @@ Create an empty component with the UID of <code>com.unascribed.unsup</code> with
   "formatVersion": 1,
   "name": "unsup",
   "uid": "com.unascribed.unsup",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "+agents": [
     {
       "name": "com.unascribed:unsup:1.1.3",
