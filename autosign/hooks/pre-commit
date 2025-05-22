@@ -6,7 +6,7 @@ git add pack.toml index.toml
 
 # Files to monitor and sign
 FILE="pack.toml"
-SIGNATURE="unsup.sig"
+FILE_SIG="unsup.sig"
 KEY="autosign/signingkey.sec"
 
 # Exit early if private key is missing
@@ -18,16 +18,14 @@ fi
 # Check if FILE is staged
 if git diff --cached --name-only | grep -q "^$FILE$"; then
     echo "Signing $FILE..."
-
     # Sign and write to .sig file
-    signify -S -s "$KEY" -m "$FILE" -x "$SIGNATURE"
+    signify -S -s "$KEY" -m "$FILE" -x "$FILE_SIG"
     if [ $? -ne 0 ]; then
         echo "Failed to sign $FILE" >&2
         exit 1
     fi
-
     # Stage the .sig file
-    git add "$SIGNATURE"
+    git add "$FILE_SIG"
 fi
 
 exit 0
