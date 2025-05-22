@@ -29,3 +29,4 @@ And add the following java arguments:
 ```
 
 NOTE: Bootstrap URLs require unsup 1.1.3 or higher to use
+NOTE 2: I would also use `-Dunsup.bootstrapKey`, but it seems that it is currently bugged with signify
