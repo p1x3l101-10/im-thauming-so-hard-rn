@@ -25,8 +25,7 @@ You can save this component file for later by copying it from <code>&lt;INST_DIR
 And add the following java arguments:
 
 ```
--Dunsup.bootstrapUrl="https://raw.githubusercontent.com/p1x3l101-10/im-thauming-so-hard-rn/refs/heads/main/unsup.ini" -Dunsup.ignoreEnvs=true
+-Dunsup.bootstrapUrl="https://raw.githubusercontent.com/p1x3l101-10/im-thauming-so-hard-rn/refs/heads/main/unsup.ini" -Dunsup.bootstrapKey="signify RWRBgYcfobPE7I7STPLaQnp69F06aqQaBSWk0AuUFKlUoCyE6VUZKxJv"
 ```
 
 NOTE: Bootstrap URLs require unsup 1.1.3 or higher to use
-NOTE 2: I would also use `-Dunsup.bootstrapKey`, but it seems that it is currently bugged with signify
